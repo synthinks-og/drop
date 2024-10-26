@@ -1,5 +1,3 @@
-Here is the updated README.md file in full English:
-
 # **EtherDrops Bot**
 
 A bot for automating trading on the EtherDrops platform.
