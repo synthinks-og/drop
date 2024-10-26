@@ -38,7 +38,7 @@ EtherDrops Bot is a Node.js application designed to automate trading on the Ethe
 
 1. Clone this repository to your local machine.
 2. Install dependencies using `npm install`.
-3. Create a data.txt file in the root directory with your account credentials (see [Configuration](#configuration) for details).
+3. Edit data.txt file in the root directory with your account credentials (see [Configuration](#configuration) for details).
 
 ## **Usage**
 
