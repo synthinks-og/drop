@@ -1,2 +1,1 @@
-query_id=
-user=
+query_id=AAFQMZFWAgAAAFAxkVZoCDTJ&user=%7B%22id%22%3A5747323216%2C%22first_name%22%3A%22Synthinks%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22synthinks%22%2C%22language_code%22%3A%22id%22%2C%22is_premium%22%3Atrue%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730375762&hash=c40077e3b2c6f29c3e8720202f59839a80dc377372a7973e01d073aa5075f46c
